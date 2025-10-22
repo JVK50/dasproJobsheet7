@@ -24,6 +24,7 @@ public class SiakadFor13 {
                 jumlahTidakLulus++;
             }
         }
+        
         System.out.println("Nilai tertinggi: " + tertinggi);
         System.out.println("Nilai terendah: " + terendah);
         System.out.println("Jumlah mahasiswa yang lulus: " + jumlahLulus);
