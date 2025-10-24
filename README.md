@@ -21,4 +21,8 @@ Jawaban Pertanyaan untuk Percobaan 3
 1. Program tidak akan mengulangi prosesnya dan akan langsung berhenti karena ada perintah break;.
 2. Perulangan do-while akan berhenti ketika pengguna memasukkan kata "batal" sebagai nama pelanggan, sebab perintah break membuat loop berhenti secara paksa.
 3. Kata true digunakan agar perulangan berjalan terus-menerus tanpa batas, jadi program hanya akan berhenti kalau ada perintah khusus seperti break;.
+<<<<<<< HEAD
 4. Hal ini terjadi karena kendali perulangan sepenuhnya bergantung pada kondisi dan perintah yang ada di dalam blok while(kondisi).
+=======
+4. Hal ini terjadi karena kendali perulangan sepenuhnya bergantung pada kondisi dan perintah yang ada di dalam blok while(kondisi).
+>>>>>>> 2e2d079e1e8a24e58619aca2ef654ea0958d8cd4
